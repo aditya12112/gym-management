@@ -1,0 +1,16 @@
+﻿# Environment & Secrets (NEVER COMMIT)
+.env
+.env.local
+.env.*.local
+
+# Operating System & IDE Files
+Thumbs.db
+Desktop.ini
+.DS_Store
+.idea/
+.vscode/
+
+# Logs & Temporary Files
+*.log
+scratch/
+error_log
